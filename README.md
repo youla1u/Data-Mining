@@ -1,1 +1,1 @@
-Développement d'algorithmes de fouille de données graduelles et volumineuses
+Développement d'algorithmes de fouille de données graduelles et volumineuses.
